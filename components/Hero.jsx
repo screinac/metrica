@@ -27,12 +27,12 @@ const Hero = () => {
         alt="metrica"
         className="absolute w-44 right-8 top-8"
       /> */}
-      <div className="flex gap-2 items-center justify-center h-full mt-5">
-        <div className="bg-[#ffffff]/60 shadow-3xl px-4 py-16 text-center flex items-center justify-center rounded-3xl">
-          <h3 className="font-bold text-2xl">PRODUCTOS</h3>
+      <div className="flex gap-2 items-center justify-center h-full mt-5 px-2">
+        <div className="bg-[#ffffff]/60 shadow-3xl w-1/2 px-4 py-16 text-center flex items-center justify-center rounded-3xl">
+          <h3 className="font-bold text-xl">PRODUCTOS</h3>
         </div>
-        <div className="bg-[#ffffff]/60 shadow-3xl px-4 py-16 text-center flex items-center justify-center rounded-3xl">
-          <h3 className="font-bold text-2xl">PRODUCTOS</h3>
+        <div className="bg-[#ffffff]/60 shadow-3xl w-1/2 px-4 py-16 text-center flex items-center justify-center rounded-3xl">
+          <h3 className="font-bold text-xl">PRODUCTOS</h3>
         </div>
       </div>
     </div>

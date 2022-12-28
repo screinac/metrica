@@ -20,7 +20,7 @@ const StoreItem = ({ item }) => {
         <p className="mb-8 font-light">{tipoDeCuerpo}</p>
 
         <div className="bg-[#E3BFB3] rounded-full shadow-3xl pb-1 pt-1 dpr-8 pl-3 w-full relative -left-3">
-          <h4 className="font-bold leading-3">{nombre}</h4>
+          <h4 className="font-bold leading-3 text-sm">{nombre}</h4>
           <p className="font-light leading-3">{precio}</p>
         </div>
       </div>
